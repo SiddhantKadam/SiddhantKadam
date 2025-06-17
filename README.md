@@ -5,7 +5,7 @@
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbncwbHQ3aXJuYXp1b3pkZ2FtZjdhYjV2a21odzVvMWd4amI3OGpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp"  />
 
-<p align="left"> <a href="https://twitter.com/siddhantk98" target="blank"><img src="https://img.shields.io/static/v1?message=Follow me&logo=x&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a> </p>
+<p align="left"> <a href="https://x.com/siddhantk98" target="blank"><img src="https://img.shields.io/static/v1?message=Follow me&logo=x&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
