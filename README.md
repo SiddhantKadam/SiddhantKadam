@@ -1,4 +1,4 @@
-<div>
+
    <h1>I'm Mr. Siddhant Anant Kadam, FrontEnd Engineer</h1>
    <img src="https://komarev.com/ghpvc/?username=SiddhantKadam&style=for-the-badge&label=Profile%20Views&labelColor=black&color=red" align="right" /> 
    <p style="color: red;">Frontend Developer (Angular Specialist) with 4 years of experience building scalable, high-performance enterprise applications. Skilled in Angular (8-19) and proficient in React, enabling flexible, modern full-stack development. </p>
@@ -43,4 +43,3 @@
    <p>
       <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiddhantKadam&show_icons=true&locale=en&layout=compact" alt="SiddhantKadam" /> --> <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SiddhantKadam&show_icons=true&locale=en" alt="SiddhantKadam" /> --> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddhantKadam&" alt="SiddhantKadam" /> 
    </p>
-</div>
